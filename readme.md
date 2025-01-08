@@ -6,4 +6,5 @@ To do all the files in to staging areas (git add.), we do manually also (git add
 Has the commit been done (git log).
 (git log --oneline)give the short description of commits.
 what is atomic commit? -> save a unit of work -> for example if you work on a footer section and it's complete then commit it.means your task is complete than commit it if it is small or big task. 
-(.gitignore) file ignore the secret informations.
+(.gitignore) file contains those file which we want to ignore.
+(.gitkeep)->In sometime we want the file but it's not contain any information but i want to put the file 
